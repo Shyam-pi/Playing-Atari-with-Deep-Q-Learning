@@ -1,3 +1,6 @@
+# Deep Q Learning for playing Atari
+
+This repository consists of codes for Deep Q Learning implemented for playing Atari games, implemented as a part of my course ENPM667 - Control of Robotics Systems at UMD College Park in Fall 2022
 
 ## Usage
 
