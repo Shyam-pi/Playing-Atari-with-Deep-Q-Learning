@@ -1,5 +1,7 @@
 # Deep Q Learning for playing Atari
 
+![atari-envs](https://github.com/Shyam-pi/Playing-Atari-with-Deep-Q-Learning/assets/57116285/a5ce0a5e-df97-41f6-ba10-cf5bdce8b8b6)
+
 This repository consists of codes for Deep Q Learning implemented for playing Atari games, implemented as a part of my course ENPM667 - Control of Robotics Systems at UMD College Park in Fall 2022
 
 Presentation for the same can be found in this [link](https://docs.google.com/presentation/d/1hrN37tCzoV1zJjXvaIwVWNeviku9rFVG/edit?usp=sharing&ouid=105774915274009785554&rtpof=true&sd=true)
