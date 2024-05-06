@@ -1,7 +1,6 @@
 
 ## Usage
 
-```
 ### Deep Q-Learning
 
 In order to reproduce the model, clone the repository locally and install all the dependencies from the requirements.txt file
